@@ -1,0 +1,7 @@
+Bước 1: Tải thử mục BANTHUCANNHANH.rar về và giải nén.
+Bước 2: Mở xampp, bật apache, mysql.
+Bước 3:	chọn Admin của mysql, tại giao diện phpadmin tạo 1 database tên "banthucannhanh".
+Bước 4: Import file banthucannhanh.sql trong thư mục đã giải nén.
+Bước 5: Mở project.
+Bước 6: Truy cập mainGUI.java bằng đường dẫn :Source Packages -> GUI -> mainGUI.java, chọn run project để khởi động chương trình
+Bước 7: Đăng nhập với tài khoản admin, mật khẩu admin để trải nghiệm hệ thốn. 
